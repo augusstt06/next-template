@@ -1,8 +1,6 @@
-'use client'
-
 import React from 'react'
 
-import { ThemeProvider } from 'next-themes'
+// import { ThemeProvider } from 'next-themes'
 
 export default function RootLayout({
   children,
@@ -12,7 +10,8 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning={true}>
       <body>
-        <ThemeProvider attribute="class">{children}</ThemeProvider>
+        {/* <ThemeProvider attribute="class">{children}</ThemeProvider> */}
+        {children}
       </body>
     </html>
   )
