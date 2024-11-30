@@ -27,7 +27,7 @@ const RAW_RUNTIME_STATE =
       [null, {\
         "packageLocation": "./",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.16.5"],\
+          ["@types/node", "npm:20.17.9"],\
           ["@types/react", "npm:18.3.12"],\
           ["@types/react-dom", "npm:18.3.1"],\
           ["@typescript-eslint/eslint-plugin", "virtual:cab5444db08dee65675ce4636869d5e29b1589efbcfd78976cf92ea113a052e66419e3544ef87577e9af3c86511041ae4309277b4b1c8693d83a7dc1213b88db#npm:6.21.0"],\
@@ -647,10 +647,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["@types/node", [\
-      ["npm:20.16.5", {\
-        "packageLocation": "../../.yarn/berry/cache/@types-node-npm-20.16.5-fd6c27be3b-10c0.zip/node_modules/@types/node/",\
+      ["npm:20.17.9", {\
+        "packageLocation": "../../.yarn/berry/cache/@types-node-npm-20.17.9-562a612444-10c0.zip/node_modules/@types/node/",\
         "packageDependencies": [\
-          ["@types/node", "npm:20.16.5"],\
+          ["@types/node", "npm:20.17.9"],\
           ["undici-types", "npm:6.19.8"]\
         ],\
         "linkType": "HARD"\
@@ -4761,7 +4761,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["next_template", "workspace:."],\
-          ["@types/node", "npm:20.16.5"],\
+          ["@types/node", "npm:20.17.9"],\
           ["@types/react", "npm:18.3.12"],\
           ["@types/react-dom", "npm:18.3.1"],\
           ["@typescript-eslint/eslint-plugin", "virtual:cab5444db08dee65675ce4636869d5e29b1589efbcfd78976cf92ea113a052e66419e3544ef87577e9af3c86511041ae4309277b4b1c8693d83a7dc1213b88db#npm:6.21.0"],\
